@@ -1,4 +1,4 @@
-# Scalable and Highly-Available WordPress Deployment
+# WordPress Scalable and Highly-Available Web Application
 
 ## Overview
 This guide provides steps to deploy a highly available WordPress website on AWS Elastic Beanstalk with Amazon RDS for robust performance. By following these steps, you can create a scalable and reliable WordPress website that can handle high levels of traffic.
