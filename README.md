@@ -77,7 +77,7 @@ Repeat the above steps to create another role named `aws-elasticbeanstalk-ec2-ro
 8. Click "Submit".
 
 ## Clean Up
-Empty and terminate Elastic Beanstalk, RDS, S3 (e.g. might need to delete bucket policy), and EC2 instances.
+Empty and terminate Elastic Beanstalk, RDS, S3 (e.g. might need to delete bucket policy), and EC2 instances. To avoid unnecessary costs, please double-check that no underlying resources are still running.
 
 ## Conclusion
 In this project, we demonstrated how to deploy a high-availability WordPress website with an external Amazon RDS database to Elastic Beanstalk. By following these steps, we have created a scalable and reliable WordPress website that can handle high levels of traffic. Feel free to message me with code improvement suggestions.
